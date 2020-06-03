@@ -1,0 +1,21 @@
+h1 {
+    background-color: cyan;
+}
+.form {
+    border: darkblue;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 20px;
+    padding: 8px;
+    text-align: center;
+
+}
+.p1 {
+    width: 300px;
+    padding: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background: rgb(175, 175, 175);
+}
